@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "SqlConnectionString": "Server=tcp:srv-dev-munchlove-01.database.windows.net,1433;Initial Catalog=[dev-munchlove-db01];Persist Security Info=False;User ID=adminml;Password=Love2etaM0r3;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection;Timeout=30;"
+  }
+}  
